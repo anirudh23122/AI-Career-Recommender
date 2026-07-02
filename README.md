@@ -84,7 +84,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Rahul Singla  
-B.Tech IT | Aspiring Software Developer  
+Anirudh Sharma  
+B.Tech CSE | Aspiring Software Developer  
 Passionate about AI, ML & Data Analytics  
 
