@@ -80,14 +80,7 @@ streamlit run app.py
 
 ---
 
-## 🚀 Future Improvements
 
-- Resume PDF Parsing using NLP
-- Deep Learning-based Recommendation Model
-- Integration with LinkedIn API
-- Personalized Learning Resource Suggestions
-
----
 
 ## 👨‍💻 Author
 
