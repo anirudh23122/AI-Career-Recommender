@@ -86,5 +86,5 @@ streamlit run app.py
 
 Anirudh Sharma  
 B.Tech CSE | Aspiring Software Developer  
-Passionate about AI, ML & Data Analytics  
+Passionate about AI, ML & Full Stack development  
 
